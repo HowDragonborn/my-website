@@ -38,3 +38,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# wanderburg content source
+_wanderburg_source/
+_wanderburg_source.tar.gz
+_agy_wanderburg_prompt.txt
+
